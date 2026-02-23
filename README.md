@@ -1,11 +1,13 @@
 # Surfing Web Project 🏄‍♂️
 
-A vibrant, energetic surfing-themed landing page. The design captures the spirit of the waves and beach lifestyle with immersive visuals, strong typography, and responsive grid structures.
+The official landing page for **WaveRiders Surf Academy**, offering beginner, intermediate, and pro wave mastery courses taught by certified instructors. 
+
+The design captures the adventurous spirit of the waves and beach lifestyle with immersive visuals, strong typography, and responsive grid structures built specifically for surf enthusiasts to easily sign up.
 
 ## 🌟 Features
 - **Thematic Design:** Deeply integrated coastal theme with tailored fonts and colors matching ocean aesthetics.
-- **Immersive Visuals:** High-quality image integration built to showcase photography prominently.
-- **Fluid Grids:** CSS Grid and Flexbox integration ensuring the layout remains consistent across mobile and desktop.
+- **Immersive Visuals:** High-quality image integration built to showcase professional photography of wave riding.
+- **Fluid Grids:** CSS Grid and Flexbox integration ensuring the layout remains consistent and readable across mobile and desktop.
 
 ## 🛠️ Built With
 - **HTML5:** Broad semantic visual foundations.
