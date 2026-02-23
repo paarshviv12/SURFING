@@ -1,5 +1,9 @@
 # Surfing Web Project 🏄‍♂️
 
+<div align="center">
+  <img src="https://media.tenor.com/E_br-tYPV8cAAAAi/chickendinnr-chicken.gif" height="200" />
+</div>
+
 The official landing page for **WaveRiders Surf Academy**, offering beginner, intermediate, and pro wave mastery courses taught by certified instructors. 
 
 The design captures the adventurous spirit of the waves and beach lifestyle with immersive visuals, strong typography, and responsive grid structures built specifically for surf enthusiasts to easily sign up.
